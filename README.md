@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Additional Link
+Open[https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f](Github Pages React deployment)
+
 ## Available Scripts
 
 In the project directory, you can run:
