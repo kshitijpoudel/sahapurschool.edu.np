@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './logo.png';
 import './App.css';
 
 function App() {
@@ -8,15 +8,21 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Shree Basic School Sahapur, Kalika-2, Chitwan
+        </p>
+        <p>
+          This website is under maintenance. Contact school administration for further information.
         </p>
         <a
+        className="App-link"
+        href="mailto:sahapurschool@gmail.com">Send Email</a>
+        <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.facebook.com/SahapurSchool/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Facebook
         </a>
       </header>
     </div>
