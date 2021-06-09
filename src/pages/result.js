@@ -21,7 +21,7 @@ const Result = () => {
                     <strpng>प्रधानाध्यापक</strpng>
                 </p>
             </p>
-            <a href="results/nurssary-2077.pdf">Nurssary</a>
+            <a href="results/nursery-2077.pdf">Nursery</a>
             <br/>
             <a href="results/1-2077.pdf">Class 1</a>
             <br/>
