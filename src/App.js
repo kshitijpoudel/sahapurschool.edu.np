@@ -9,7 +9,7 @@ import Result from "./pages/result";
 
 function App() {
   return (
-      <Router basename="/sahapurschool.edu.np">
+      <Router>
         <Navbar />
         <Switch>
           <Route path='/' exact component={Home} />
