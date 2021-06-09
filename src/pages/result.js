@@ -23,6 +23,8 @@ const Result = () => {
             </p>
             <a href="results/nursery-2077.pdf">Nursery</a>
             <br/>
+            <a href="results/kg-2077.pdf">KG</a>
+            <br/>
             <a href="results/1-2077.pdf">Class 1</a>
             <br/>
             <a href="results/2-2077.pdf">Class 2</a>
