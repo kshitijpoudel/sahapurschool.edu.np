@@ -1,7 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Additional Link
-Open[https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f](Github Pages React deployment)
+Open [Github Pages React deployment](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
+<br />
+Other ref: [Redirect individual pages](https://github.com/rafgraph/spa-github-pages)
 
 ## Available Scripts
 

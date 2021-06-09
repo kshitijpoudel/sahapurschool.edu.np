@@ -9,13 +9,13 @@ import Result from "./pages/result";
 
 function App() {
   return (
-      <Router>
+      <Router basename="/sahapurschool.edu.np">
         <Navbar />
         <Switch>
           <Route path='/' exact component={Home} />
           <Route path='/about' component={About} />
           <Route path='/team' component={Teams} />
-            <Route path='/result' component={Result} />
+          <Route path='/result' component={Result} />
         </Switch>
       </Router>
   );
