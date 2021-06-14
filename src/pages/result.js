@@ -38,6 +38,8 @@ const Result = () => {
             <a href="results/6-2077.pdf">Class 6</a>
             <br/>
             <a href="results/7-2077.pdf">Class 7</a>
+            <br/>
+            <a href="results/8-2077.pdf">Class 8</a>
         </div>
     );
 };
